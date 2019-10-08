@@ -1,17 +1,27 @@
 {
   // Styles settings
   "workbench.colorTheme": "Dracula",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 18,
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "editor.letterSpacing": 0,
   "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "window.zoomLevel": 0,
+  "breadcrumbs.enabled": true,
+  "terminal.integrated.fontSize": 14,
+  "editor.rulers": [
+    80,
+    120
+  ],
 
   // IDE settings
   "editor.formatOnSave": true,
+  "editor.parameterHints.enabled": false
   "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "never",
 
   // Pattern code settings
   "prettier.singleQuote": true,
