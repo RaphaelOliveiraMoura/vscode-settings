@@ -22,7 +22,7 @@ Essas são as extensões/plugins que uso para configurar o editor **Visual Studi
 
 Segue abaixo as **configurações completas** em formato JSON do vscode. Para utiliza-las basta na aba preferences no vscode, abrir e alterar o arquivo **settings.json**.
 
-```json
+```javascript
 {
   // Styles settings
   "workbench.colorTheme": "Dracula",
@@ -57,7 +57,9 @@ Para instalar a fonte basta abrir a pasta [~/fonts/FiraCode/]() baixar a versão
 
 Essas são as ferramentas **essenciais** para desenvolvimento.
 
-- Insomnia / Postman
-- VSCode
+- insomnia / postman
+- vscode
 - yarn / npm
 - git
+
+## 🖥️ Terminal
