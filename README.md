@@ -46,7 +46,7 @@ Segue abaixo as **configurações completas** em formato JSON do vscode. Para ut
 
   // IDE settings
   "editor.formatOnSave": true,
-  "editor.parameterHints.enabled": false
+  "editor.parameterHints.enabled": false,
   "workbench.startupEditor": "newUntitledFile",
   "javascript.updateImportsOnFileMove.enabled": "never",
 
